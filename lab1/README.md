@@ -2,6 +2,9 @@
 
 ## Steps
 
+- Data model
+<p align="center"><img src ="https://github.com/yennanliu/redshift-poc/blob/main/lab1/doc/data_model.png" ></p>
+
 - 0) set up AWS access key
 	- https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html
 
