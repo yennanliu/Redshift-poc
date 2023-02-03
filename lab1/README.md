@@ -2,7 +2,7 @@
 
 ## Steps
 
-- Data model
+- Data model (Star Schema Benchmark(SSB))
 <p align="center"><img src ="https://github.com/yennanliu/redshift-poc/blob/main/lab1/doc/data_model.png" ></p>
 
 - 0) set up AWS access key
