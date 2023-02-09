@@ -1,0 +1,21 @@
+CREATE TABLE green_tripdata(
+vendor_id VARCHAR(50),
+lpep_pickup_datetime VARCHAR(50),
+lpep_dropoff_datetime VARCHAR(50),
+store_and_fwd_flag VARCHAR(50),
+rate_code_od VARCHAR(50),
+pul_location_id VARCHAR(50),
+do_location_id VARCHAR(50),
+passenger_count VARCHAR(50),
+trip_distance VARCHAR(50),
+fare_amount VARCHAR(50),
+extra VARCHAR(50),
+mta_tax VARCHAR(50),
+tip_amount VARCHAR(50),
+tolls_amount VARCHAR(50),
+ehail_fee VARCHAR(50),
+improvement_surcharge VARCHAR(50),
+total_amount VARCHAR(50),
+payment_type VARCHAR(50),
+trip_type VARCHAR(50)
+  );
