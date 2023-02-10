@@ -11,3 +11,5 @@
 	- https://docs.aws.amazon.com/redshift/latest/dg/c_serial_isolation.html
 - Distribution Styles and Distribution Keys
 	- https://aws.amazon.com/blogs/big-data/amazon-redshift-engineerings-advanced-table-design-playbook-distribution-styles-and-distribution-keys/
+- Admin SQL
+	- https://github.com/awslabs/amazon-redshift-utils/tree/master/src/AdminScripts
